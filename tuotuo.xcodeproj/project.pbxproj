@@ -13,6 +13,7 @@
 		9490EB132022B67200E877DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9490EB122022B67200E877DF /* Assets.xcassets */; };
 		9490EB162022B67200E877DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9490EB142022B67200E877DF /* LaunchScreen.storyboard */; };
 		9490EB192022B67300E877DF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9490EB182022B67300E877DF /* main.m */; };
+		9490EB212022B69100E877DF /* DraggingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9490EB202022B69100E877DF /* DraggingView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		9490EB152022B67200E877DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9490EB172022B67300E877DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9490EB182022B67300E877DF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9490EB1F2022B69100E877DF /* DraggingView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DraggingView.h; sourceTree = "<group>"; };
+		9490EB202022B69100E877DF /* DraggingView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DraggingView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				9490EB0A2022B67200E877DF /* AppDelegate.m */,
 				9490EB0C2022B67200E877DF /* ViewController.h */,
 				9490EB0D2022B67200E877DF /* ViewController.m */,
+				9490EB1F2022B69100E877DF /* DraggingView.h */,
+				9490EB202022B69100E877DF /* DraggingView.m */,
 				9490EB0F2022B67200E877DF /* Main.storyboard */,
 				9490EB122022B67200E877DF /* Assets.xcassets */,
 				9490EB142022B67200E877DF /* LaunchScreen.storyboard */,
@@ -145,6 +150,7 @@
 				9490EB0E2022B67200E877DF /* ViewController.m in Sources */,
 				9490EB192022B67300E877DF /* main.m in Sources */,
 				9490EB0B2022B67200E877DF /* AppDelegate.m in Sources */,
+				9490EB212022B69100E877DF /* DraggingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
